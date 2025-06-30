@@ -20,6 +20,4 @@ The player controls a spaceship at the bottom of the screen and must shoot down 
 
 ## Screenshot
 
-*(Add your screenshot here. You can replace the placeholder below)*
-
-![Gameplay Screenshot](placeholder.png "Game in Action")
+![image](https://github.com/user-attachments/assets/0ce3f5bf-6d58-4749-aa96-634f1927147a)
